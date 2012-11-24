@@ -1,0 +1,3 @@
+# Module pantallas
+# RPC service class, partial path of RPC policy file
+com.romina.pantallas.client.GreetingService, CACD88849FD27A451D44AC0B6227C56E.gwt.rpc

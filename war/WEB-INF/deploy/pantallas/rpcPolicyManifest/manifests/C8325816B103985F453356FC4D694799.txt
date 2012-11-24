@@ -1,0 +1,2 @@
+serviceClass: com.romina.pantallas.client.GreetingService
+path: CACD88849FD27A451D44AC0B6227C56E.gwt.rpc
